@@ -3,6 +3,10 @@
 **Standalone Android app** that helps users build healthier phone habits through 🕹️ gamification and 👥 social interaction.
 
 ---
+## Design
+https://www.canva.com/design/DAG172Jh9yI/BDxt6xxe87I9QgRyS7wlIA/view?utm_content=DAG172Jh9yI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h97d8b857e7
+
+---
 
 ## 🎯 Purpose
 Encourage reduced screen time, improved focus, and continuous personal growth by rewarding time spent away from the screen.  
