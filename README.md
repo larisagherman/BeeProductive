@@ -8,14 +8,11 @@
 Encourage reduced screen time, improved focus, and continuous personal growth by rewarding time spent away from the screen.  
 BeeProductive turns mindfulness into motivation.
 
----
-
 ## 🧠 Core Concept
 - Time spent **off the screen** generates rewards.  
 - Users grow and maintain a **bee colony** 🐝 — hive growth and honey 🍯 reflect progress.  
 - Excessive screen time causes bees to **leave** or slows hive productivity.
 
----
 
 ## 🕹️ Gamification
 - **🐝 Bee Colony Growth:** Earn bees, honey, and hive upgrades for staying screen-free.  
@@ -24,22 +21,16 @@ BeeProductive turns mindfulness into motivation.
 - **🎯 Personal Challenges:** User-set goals (e.g., “Stay under 3 hours today”).  
 - **🤝 Group Challenges:** Shared goals for friends or custom groups.
 
----
 
 ## 👥 Social Features
 - **🏆 Leaderboards:** Compare hive growth and productivity with friends and groups.  
 - **👨‍👩‍👧‍👦 Groups:** Join or create groups to collaborate on challenges and motivate each other.
-
----
 
 ## 🌟 Goals
 - 📉 Reduce overall screen time.  
 - 🧘 Promote mindful and intentional phone use.  
 - 🔁 Encourage constant self-improvement.  
 - 🎮 Make the process fun, visual, and rewarding.
-
----
-
 
 
 ## ⚙️ Key Principles
@@ -48,20 +39,22 @@ BeeProductive turns mindfulness into motivation.
 
 ---
 
-## 👾 Implementation Requirenments
-# 📱 Android Application
+# 👾 Implementation Requirenments
+## 📱 Android Application
 - The application will be written in Android Java and will use **UsageStats Android Api** for gathering screen usage information
 
-# 🔥 Firebase Authentication
+
+## 🔥 Firebase Authentication
 - Firebase will help us to authenticate users
 - Our backend will also comunicate with Firebase to verify the requests and use identity
 
-# ☁️ Backend
+
+## ☁️ Backend
 - Spring boot technology
 - will handle the user requests
 - database communication
 
-# 💾 Database
+## 💾 Database
 - Sql Database
 - User information
 - Group information
