@@ -40,7 +40,29 @@ BeeProductive turns mindfulness into motivation.
 
 ---
 
+
+
 ## ⚙️ Key Principles
 - 💬 **Motivational** — focuses on positive reinforcement, not restriction.  
 - 🎨 **Simple & Engaging UI** — clean visuals, friendly animations.  
 
+---
+
+## 👾 Implementation Requirenments
+# 📱 Android Application
+- The application will be written in Android Java and will use **UsageStats Android Api** for gathering screen usage information
+
+# 🔥 Firebase Authentication
+- Firebase will help us to authenticate users
+- Our backend will also comunicate with Firebase to verify the requests and use identity
+
+# ☁️ Backend
+- Spring boot technology
+- will handle the user requests
+- database communication
+
+# 💾 Database
+- Sql Database
+- User information
+- Group information
+- Challanges information
