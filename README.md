@@ -7,9 +7,6 @@
 https://www.canva.com/design/DAG172Jh9yI/BDxt6xxe87I9QgRyS7wlIA/view?utm_content=DAG172Jh9yI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h97d8b857e7
 
 ---
-## Database Design
-https://datamodeler.redgate-platform.com/model/3irkOTJIty7ffcRo2aaUNs18D7ADfbXp
----
 
 ## 🎯 Purpose
 Encourage reduced screen time, improved focus, and continuous personal growth by rewarding time spent away from the screen.  
