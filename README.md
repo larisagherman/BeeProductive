@@ -7,7 +7,10 @@
 https://www.canva.com/design/DAG172Jh9yI/BDxt6xxe87I9QgRyS7wlIA/view?utm_content=DAG172Jh9yI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h97d8b857e7
 
 ---
+## Data Base Design
+<img width="768" height="354" alt="dataBaseDesign" src="https://github.com/user-attachments/assets/93e5f55e-1298-4932-841f-6a5bb14cb56a" />
 
+---
 ## 🎯 Purpose
 Encourage reduced screen time, improved focus, and continuous personal growth by rewarding time spent away from the screen.  
 BeeProductive turns mindfulness into motivation.
