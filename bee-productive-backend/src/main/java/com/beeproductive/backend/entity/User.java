@@ -23,11 +23,11 @@ public class User {
     @Column(nullable = false)
     private int fireBaseId;
     @Column(nullable = false)
-    private String Name;
+    private String name;
     @Column
     private int numberOfBees;
 
-    @OneToMany(mappedBy = "userId",cascade = CascadeType.ALL)
+    @OneToMany(mappedBy = "user",cascade = CascadeType.ALL)
     private List<ScreenTime> screenTimes;
 
     //the groups where this user is admin

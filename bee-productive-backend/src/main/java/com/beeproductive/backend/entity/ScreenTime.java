@@ -28,7 +28,7 @@ public class ScreenTime {
 
     @ManyToOne
     @JoinColumn(name = "userId")
-    private User userId;
+    private User user;
 
 
 }
