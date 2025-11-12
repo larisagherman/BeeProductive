@@ -15,6 +15,6 @@ import java.util.Set;
 @AllArgsConstructor
 @NoArgsConstructor
 public class UserRequestDto {
-    private int fireBaseId;
+    private String fireBaseId;
     private String Name;
 }

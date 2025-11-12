@@ -8,11 +8,11 @@ import lombok.Setter;
 
 import java.util.List;
 import java.util.Set;
-
 @Getter
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
+
 
 @Entity
 @Table(name = "user_")
@@ -20,8 +20,8 @@ public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-    @Column(nullable = false)
-    private int fireBaseId;
+    @Column(nullable = false,unique = true)
+    private String fireBaseId;
     @Column(nullable = false)
     private String name;
     @Column
