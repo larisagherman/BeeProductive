@@ -8,7 +8,7 @@ https://www.canva.com/design/DAG172Jh9yI/BDxt6xxe87I9QgRyS7wlIA/view?utm_content
 
 ---
 ## Data Base Design
-<img width="768" height="354" alt="dataBaseDesign" src="https://github.com/user-attachments/assets/93e5f55e-1298-4932-841f-6a5bb14cb56a" />
+<img width="1263" height="470" alt="databaseDesign" src="https://github.com/user-attachments/assets/fb7f4fd5-fa2d-4e0c-a178-3dc21093e964" />
 
 ---
 ## 🎯 Purpose
