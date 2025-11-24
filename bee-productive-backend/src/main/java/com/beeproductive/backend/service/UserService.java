@@ -17,11 +17,11 @@ public class UserService {
 
     public void login(String token) throws FirebaseAuthException {
         FirebaseToken decodedToken = FirebaseAuth.getInstance().verifyIdToken(token);
-        String userId = decodedToken.getUid();
+        String userFirebaseId = decodedToken.getUid();
         String name= decodedToken.getName();
         Optional<User> user=userRepository.findByFireBaseId(token);
         if(user.isEmpty()){
-            register(userId, name);
+            register(userFirebaseId, name);
         }
 
     }
