@@ -3,7 +3,7 @@
 **Standalone Android app** that helps users build healthier phone habits through 🕹️ gamification and 👥 social interaction.
 
 ---
-## Android App github:
+## Android App GitHub:
 https://github.com/davidnan/BeeProductiveAndroid
 
 ---
