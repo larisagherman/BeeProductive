@@ -21,6 +21,7 @@ public class Group {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+    private String name;
     @ManyToOne
     @JoinColumn(name = "adminId")
     private User userAdmin;

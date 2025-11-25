@@ -4,18 +4,14 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import java.util.List;
 import java.util.Set;
-
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class UserResponseDto {
+public class GroupResponseDto {
     private Long id;
-    private String fireBaseId;
     private String name;
-    private int numberOfBees;
-    private Set<ScreenTimeResponseDto> screenTimes;
-    private Set<Long> adminGroups;
-    private Set<Long> groupData;
+    private Long userAdmin;
+    private Set<Long> challengeIds;
+    private Set<Long> memberData;
 }

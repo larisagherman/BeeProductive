@@ -10,12 +10,9 @@ import java.util.Set;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class UserResponseDto {
+public class ChallengeResponseDto {
     private Long id;
-    private String fireBaseId;
     private String name;
-    private int numberOfBees;
-    private Set<ScreenTimeResponseDto> screenTimes;
-    private Set<Long> adminGroups;
-    private Set<Long> groupData;
+    private String description;
+    private Set<Long> groupList;
 }

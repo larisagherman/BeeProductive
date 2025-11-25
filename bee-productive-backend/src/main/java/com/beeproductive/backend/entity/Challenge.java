@@ -19,7 +19,8 @@ public class Challenge {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
+    private String name;
+    private String description;
     @ManyToMany
     @JoinTable(name = "challenge_group",
                 joinColumns = @JoinColumn(name = "challenge_id"),

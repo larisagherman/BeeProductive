@@ -4,13 +4,12 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import java.sql.Date;
-import java.sql.Time;
+import java.util.Set;
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class ScreenTimeRequestDto {
-    private Date date;
-    private Time time;
-    private Long userId;
+public class ChallengeRequestDto {
+    private String name;
+    private String description;
 }
